@@ -1,3 +1,7 @@
+/** Make a new Person
+ * use [[`new Person()`]]
+ * {@linkcode f} 
+ */
 class Person {
 	// h
 	name: string
