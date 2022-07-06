@@ -1,5 +1,5 @@
 class Person {
-	// f
+	// ff
 	name: string
 	constructor(name: string) {
 		this.name=name
