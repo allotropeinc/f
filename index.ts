@@ -1,11 +1,11 @@
 /** Make a new Person
  * use [[`new Person()`]]
- * {@linkcode f} 
+ * {@linkcode f}
  */
 class Person {
-	// h
-	name: string
-	constructor(name: string) {
-		this.name=name
-	}
+  // h
+  name: string;
+  constructor(name: string) {
+    this.name = name;
+  }
 }
