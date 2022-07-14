@@ -3,7 +3,7 @@
  * {@linkcode f}
  */
 class Person {
-  // h
+  // hi
   name: string;
   constructor(name: string) {
     this.name = name;
